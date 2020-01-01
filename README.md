@@ -1,4 +1,9 @@
 # This is a test project
 
 Git operations can be tested using this project
-OK
+
+* Make sure SSH works
+* Make sure branches work
+* Make sure TAGs work
+
+
